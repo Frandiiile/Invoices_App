@@ -3,7 +3,7 @@
 
 Welcome to the Invoices App repository! This project aims to simplify the process of managing and analyzing invoices using Natural Language Processing (NLP), Optical Character Recognition (OCR), and the Django web framework.
 
-## Project Overview
+## Project Overview : 
 
 The Invoices App is designed to streamline invoice management for businesses. It leverages the power of NLP and OCR to extract information from invoices, organize data, and provide valuable insights. With this app, you can:
 
@@ -13,7 +13,7 @@ The Invoices App is designed to streamline invoice management for businesses. It
 - Analyze spending patterns and generate reports.
 - Seamlessly integrate with existing accounting systems.
 
-## Features
+## Features : 
 
 - **OCR Integration:** Utilize Optical Character Recognition to extract text from scanned invoices.
 
